@@ -2,7 +2,9 @@
 # Hi, I'm Aanya Bharti 👋
 
 CS & Mathematics double major @ UMass Lowell  
-Interested in AI/ML, algorithms, graphics, bioinformatics, and software systems. Welcome to my portfolio :) This is a collection of projects I’ve built over the years. Feel free to reach out ask any questions from my handles.
+Interested in AI/ML, algorithms, graphics, bioinformatics, and software systems. 
+
+Welcome to my portfolio :) This is a collection of projects I’ve built over the years. Feel free to reach out ask any questions from my handles.
 
 ---
 
