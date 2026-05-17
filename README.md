@@ -2,21 +2,11 @@
 # Hi, I'm Aanya Bharti 👋
 
 CS & Mathematics @ UMass Lowell  
-Interested in AI/ML, UX/UI, Computer vision, bioinformatics, algorithms, graphics, and software systems.
+Interested in AI/ML, bioinformatics, algorithms, graphics, and software systems.
 
 ---
 
 ## Featured Projects
-
----
-
-### 🌐 Web Development & APIs
-
-- [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)  
-  JavaScript application integrating the Spotify API for interactive music and album discovery.
-
-- [productivibe-app](https://github.com/aanyabharti101/productivibe-app)  
-  Productivity-focused web app for task organization and workflow management.
 
 ---
 
@@ -33,6 +23,16 @@ Interested in AI/ML, UX/UI, Computer vision, bioinformatics, algorithms, graphic
 
 - [Sokoban-Game](https://github.com/aanyabharti101/Sokoban-Game)  
   Interactive puzzle game built with SFML featuring event handling and grid-based movement logic.
+
+---
+
+### 🌐 Web Development & APIs
+
+- [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)  
+  JavaScript application integrating the Spotify API for interactive music and album discovery.
+
+- [productivibe-app](https://github.com/aanyabharti101/productivibe-app)  
+  Productivity-focused web app for task organization and workflow management.
 
 ---
 
