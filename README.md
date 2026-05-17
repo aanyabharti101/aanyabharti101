@@ -1,51 +1,50 @@
+
 # Hi, I'm Aanya Bharti 👋
 
-Computer Science & Mathematics student at the University of Massachusetts Lowell
----
-
-# Featured Projects
-
-## Bioinformatics & Computational Biology
-
-### 🧬 [stickleback-gene-analysis](https://github.com/aanyabharti101/stickleback-gene-analysis)
-Bioinformatics research pipeline for identifying lineage-specific and candidate de novo genes in three-spined stickleback using OrthoFinder, DIAMOND BLASTP, HPC workflows, and large-scale homology analysis.
-
-### 🧬 [DNAAlignment](https://github.com/aanyabharti101/DNAAlignment)
-Dynamic programming–based DNA sequence alignment system in C++ that computes edit distance, reconstructs optimal genome alignments, and benchmarks runtime/memory performance on large biological datasets.
+CS & Mathematics @ UMass Lowell  
+Interested in AI/ML, UX/UI, Computer vision, bioinformatics, algorithms, graphics, and software systems.
 
 ---
 
-## Algorithms & Systems
-
-### ⚙️ [RandWriter](https://github.com/aanyabharti101/RandWriter)
-Probabilistic text generation engine built with Markov chain modeling, weighted random sampling, and k-gram frequency analysis in modern C++.
-
-### 📊 [KronosLogParsing](https://github.com/aanyabharti101/KronosLogParsing)
-C++ log analysis system that parses Kronos device logs using regex pattern matching and Boost Date-Time to detect boot events and generate structured diagnostic reports.
+## Featured Projects
 
 ---
 
-## Graphics & Interactive Visualization
+### 🌐 Web Development & APIs
 
-### 🌳 [PTreeFractal](https://github.com/aanyabharti101/PTreeFractal)
-Interactive recursive fractal renderer using SFML, trigonometric transformations, and geometric recursion to generate customizable Pythagorean Tree visualizations.
+- [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)  
+  JavaScript application integrating the Spotify API for interactive music and album discovery.
 
-### 🎮 [Sokoban-Game](https://github.com/aanyabharti101/Sokoban-Game)
-C++ puzzle game implementation featuring grid-based movement logic, event handling, collision detection, and interactive SFML graphics.
-
----
-
-## Web Development & APIs
-
-### 🎵 [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)
-JavaScript-based music discovery application integrating the Spotify API to search and explore albums through an interactive frontend interface.
-
-### ✅ [productivibe-app](https://github.com/aanyabharti101/productivibe-app)
-Productivity-focused web application designed to help users organize tasks, improve workflow efficiency, and manage daily goals through an intuitive interface.
+- [productivibe-app](https://github.com/aanyabharti101/productivibe-app)  
+  Productivity-focused web app for task organization and workflow management.
 
 ---
 
+### ⚙️ Algorithms, Graphics & Systems
+
+- [PTreeFractal](https://github.com/aanyabharti101/PTreeFractal)  
+  Recursive SFML fractal renderer using geometric transformations and trigonometric recursion.
+
+- [RandWriter](https://github.com/aanyabharti101/RandWriter)  
+  Markov-chain text generator using probabilistic modeling and weighted random sampling.
+
+- [KronosLogParsing](https://github.com/aanyabharti101/KronosLogParsing)  
+  C++ log parsing and diagnostic reporting system using regex and Boost Date-Time.
+
+- [Sokoban-Game](https://github.com/aanyabharti101/Sokoban-Game)  
+  Interactive puzzle game built with SFML featuring event handling and grid-based movement logic.
+
 ---
+
+### 🧬 Research & Computational Biology
+
+- [stickleback-gene-analysis](https://github.com/aanyabharti101/stickleback-gene-analysis)  
+  Bioinformatics pipeline for lineage-specific gene discovery using OrthoFinder, DIAMOND BLASTP, and HPC workflows.
+
+- [DNAAlignment](https://github.com/aanyabharti101/DNAAlignment)  
+  Dynamic programming DNA alignment system in C++ with edit distance optimization and genome sequence analysis.
+
+
 
 # Tech Stack
 
