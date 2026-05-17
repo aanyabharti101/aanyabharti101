@@ -50,5 +50,5 @@ Interested in AI/ML, UX/UI, Computer vision, bioinformatics, algorithms, graphic
 
 ```txt
 Languages: C++, Python, JavaScript, R, HTML/CSS
-Tools: Git, Linux, SFML, Boost, HPC/SLURM
+Tools: Git, Linux, SFML, Boost, HPC/SLURM, Shell
 ```
