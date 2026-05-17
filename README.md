@@ -1,16 +1,17 @@
 
 # Hi, I'm Aanya Bharti 👋
 
-CS & Mathematics @ UMass Lowell  
-Interested in AI/ML, bioinformatics, algorithms, graphics, and software systems.
+CS & Mathematics double major @ UMass Lowell  
 
+Interested in AI/ML, algorithms, graphics, bioinformatics, and software systems.  
+A collection of projects I’ve built over the years.
 ---
 
 ## Featured Projects
 
 ---
 
-### ⚙️ Algorithms, Graphics & Systems
+### ⚙️ ⚙Algorithms, Graphics & Systems
 
 - [PTreeFractal](https://github.com/aanyabharti101/PTreeFractal)  
   Recursive SFML fractal renderer using geometric transformations and trigonometric recursion.
@@ -26,7 +27,7 @@ Interested in AI/ML, bioinformatics, algorithms, graphics, and software systems.
 
 ---
 
-### 🌐 Web Development & APIs
+### 🌐 🌐︎ Web Development & APIs
 
 - [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)  
   JavaScript application integrating the Spotify API for interactive music and album discovery.
@@ -36,7 +37,7 @@ Interested in AI/ML, bioinformatics, algorithms, graphics, and software systems.
 
 ---
 
-### 🧬 Research & Computational Biology
+### 🧬⚛︎ Research & Computational Biology
 
 - [stickleback-gene-analysis](https://github.com/aanyabharti101/stickleback-gene-analysis)  
   Bioinformatics pipeline for lineage-specific gene discovery using OrthoFinder, DIAMOND BLASTP, and HPC workflows.
