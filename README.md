@@ -11,7 +11,7 @@ A collection of projects I’ve built over the years.
 
 ---
 
-### ⚙️ ⚙Algorithms, Graphics & Systems
+### ⚛︎ .✦ ݁˖Algorithms, Graphics & Systems
 
 - [PTreeFractal](https://github.com/aanyabharti101/PTreeFractal)  
   Recursive SFML fractal renderer using geometric transformations and trigonometric recursion.
@@ -27,7 +27,7 @@ A collection of projects I’ve built over the years.
 
 ---
 
-### 🌐 🌐︎ Web Development & APIs
+### ⚛︎ .✦ ݁˖Web Development & APIs
 
 - [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)  
   JavaScript application integrating the Spotify API for interactive music and album discovery.
@@ -37,7 +37,7 @@ A collection of projects I’ve built over the years.
 
 ---
 
-### 🧬⚛︎ Research & Computational Biology
+### ⚛︎.✦ ݁˖ Research & Computational Biology
 
 - [stickleback-gene-analysis](https://github.com/aanyabharti101/stickleback-gene-analysis)  
   Bioinformatics pipeline for lineage-specific gene discovery using OrthoFinder, DIAMOND BLASTP, and HPC workflows.
