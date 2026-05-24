@@ -30,9 +30,6 @@ Welcome to my portfolio :) This is a collection of projects I’ve built over th
 
 ### ◆⋆˚࿔ Web Development & APIs
 
-- [spotify-album-finder](https://github.com/aanyabharti101/spotify-album-finder)  
-  JavaScript application integrating the Spotify API for interactive music and album discovery.
-
 - [productivibe-app](https://github.com/aanyabharti101/productivibe-app)  
   Productivity-focused web app for task organization and workflow management.
 
