@@ -6,14 +6,16 @@ I’m interested in AI/ML, software systems, and computational biology, and I lo
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
 
+**Currently preparing for:** Break Through Tech AI Studio (Fall 2026), where I’ll be collaborating on an industry-sponsored AI/ML project.
+
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4A24C&width=720&lines=CS+%2B+Mathematics+Student+at+UMass+Lowell;Aspiring+AI%2FML+Engineer+%7C+Computational+Biology+Researcher" alt="CS and Mathematics student aspiring to work in AI/ML and computational biology" />
 </p>
 
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
-- **Swift Build** *(In Progress)*  
-  Contributing to Swift's cross-platform build system by improving linker behavior, debugging build internals, and adding regression tests.
+- **[Swift Build — Pull Request #1477](https://github.com/swiftlang/swift-build/pull/1477)**  
+  Investigated LinkFileList quoting and added regression tests for paths requiring quoting in Swift’s cross-platform build system.
 
 - **HawkAdvisor** *(Private Repository)*  
   UI/UX improvements including authentication redesign, dark mode support, and reusable component styling.
@@ -21,11 +23,10 @@ Welcome to my little corner of GitHub :) This is where I share projects I’ve b
 - **Firefox** *(Coming Soon)*  
   Planning future contributions to Mozilla Firefox.
 
-- **Open Source Engineering Log**  
-  Documentation of my open-source engineering process, issue investigations, testing, and pull requests.  
-  https://github.com/aanyabharti101/su26-ai301-contribution
-
+- **[Open Source Engineering Log](https://github.com/aanyabharti101/su26-ai301-contribution)**  
+  Notes on issue investigation, implementation, testing, and pull-request progress.
 ---
+
 
 ## ◆⋆˚˖ꕤ Algorithms, Graphics & Systems
 
@@ -42,6 +43,7 @@ Welcome to my little corner of GitHub :) This is where I share projects I’ve b
   Interactive puzzle game built with SFML.
 
 ---
+
 
 ## ◆⋆˚࿔ Web Development & APIs
 
