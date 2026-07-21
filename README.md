@@ -16,13 +16,13 @@ Currently preparing for Break Through Tech AI Studio (Fall 2026), an industry-sp
 
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
-- **[Swift Build — Pull Request #1477](https://github.com/swiftlang/swift-build/pull/1477)**  
+- **[Swift Build:  Pull Request #1477](https://github.com/swiftlang/swift-build/pull/1477)**  
   Investigated LinkFileList quoting and added regression tests for paths requiring quoting in Swift’s cross-platform build system.
 
 - **HawkAdvisor** *(Private Repository)*  
   UI/UX improvements including authentication redesign, dark mode support, and reusable component styling.
 
-- **[Firebase Tools — Issue #3728](https://github.com/firebase/firebase-tools/issues/3728)** *(In Progress)*  
+- **[Firebase Tools: Issue #3728](https://github.com/firebase/firebase-tools/issues/3728)** *(In Progress)*  
   Reproducing and investigating Functions Emulator URLs so local HTTP endpoints display browser-friendly addresses.
 
 - **[Open Source Engineering Log](https://github.com/aanyabharti101/su26-ai301-contribution)**  
