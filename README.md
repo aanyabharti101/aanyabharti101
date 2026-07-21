@@ -2,14 +2,14 @@
 
 CS & Mathematics double major @ UMass Lowell
 
-I’m interested in AI/ML, software systems, and computational biology, and I love building things that turn an idea into something real.
+I’m an aspiring AI/ML engineer interested in applying machine learning and software to real-world problems in biology and health. I love building things that turn an idea into something real.
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
 
-**Currently preparing for:** Break Through Tech AI Studio (Fall 2026), where I’ll be collaborating on an industry-sponsored AI/ML project.
+Currently preparing for Break Through Tech AI Studio (Fall 2026), an industry-sponsored AI/ML project.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4A24C&width=720&lines=CS+%2B+Mathematics+Student+at+UMass+Lowell;Aspiring+AI%2FML+Engineer+%7C+Computational+Biology+Researcher" alt="CS and Mathematics student aspiring to work in AI/ML and computational biology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4A24C&width=800&lines=CS+%2B+Mathematics+Student+at+UMass+Lowell;Aspiring+AI%2FML+Engineer+for+Health+%26+Biology" alt="CS and Mathematics student aspiring to be an AI/ML engineer for health and biology" />
 </p>
 
 ## ◆⋆˚˖ꕤ Open Source Contributions
