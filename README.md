@@ -114,7 +114,4 @@ Currently preparing for Break Through Tech AI Studio (Fall 2026), an industry-sp
 </p>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aanyabharti101&show_icons=true&theme=transparent&hide_border=true&title_color=D4A24C&icon_color=D4A24C&text_color=C9D1D9" alt="Aanya's GitHub stats" />
-</p>
 
