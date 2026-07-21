@@ -5,6 +5,9 @@ Interested in AI/ML, software engineering, algorithms, graphics, bioinformatics,
 
 Welcome to my portfolio :) This is a collection of projects I've built, research I've worked on, and open-source contributions I'm currently making.
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&width=500&lines=CS+%2B+Mathematics+Student+at+UMass+Lowell;Interested+in+AI%2FML%2C+software+systems%2C+and+bioinformatics" alt="Typing introduction" />
+</p>
 ---
 
 ## ◆⋆˚˖ꕤ Open Source Contributions
