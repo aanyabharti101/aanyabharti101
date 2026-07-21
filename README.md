@@ -13,7 +13,6 @@ Currently preparing for Break Through Tech AI Studio (Fall 2026), an industry-sp
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4A24C&width=720&lines=CS+%2B+Mathematics+Student+at+UMass+Lowell;Aspiring+AI%2FML+Engineer" alt="CS and Mathematics student aspiring to be an AI/ML engineer" />
 </p>
 
-
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
 - **[Swift Build — Pull Request #1477](https://github.com/swiftlang/swift-build/pull/1477)**  
