@@ -2,7 +2,7 @@
 
 CS & Mathematics double major @ UMass Lowell
 
-I’m interested in AI/ML, software systems, and computational biology—and I love building things that turn an idea into something real.
+I’m interested in AI/ML, software systems, and computational biology, and I love building things that turn an idea into something real.
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
 
