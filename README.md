@@ -19,7 +19,7 @@ Currently preparing for Break Through Tech AI Studio (Fall 2026), an industry-sp
 - **[Swift Build:  Pull Request #1477](https://github.com/swiftlang/swift-build/pull/1477)**  
   Investigated LinkFileList quoting and added regression tests for paths requiring quoting in Swift’s cross-platform build system.
 
-- **[Firebase Tools: Issue #3728](https://github.com/firebase/firebase-tools/pull/10904)**
+- **[Firebase Tools: Pull Request #10904](https://github.com/firebase/firebase-tools/pull/10904)**
   Implemented a Functions Emulator fix that displays local 0.0.0.0 and 127.0.0.1 URLs as browser-friendly localhost addresses while preserving internal networking behavior.
   Added unit tests and validated the change with 28 passing related tests, lint checks, and a successful Firebase Tools CLI build
 
