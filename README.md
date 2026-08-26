@@ -6,13 +6,21 @@ I’m an aspiring AI/ML engineer interested in applying machine learning and sof
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
 
-Currently preparing for Break Through Tech AI Studio (Fall 2026), an industry-sponsored AI/ML project.
+Currently working on a Microsoft industry challenge through Break Through Tech AI Studio, developing an LSTM-based model for groundwater time-series forecasting.
 
 
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D4A24C&width=720&lines=CS+%2B+Mathematics+Student+at+UMass+Lowell;Aspiring+AI%2FML+Engineer" alt="CS and Mathematics student aspiring to be an AI/ML engineer" />
 </p>
+
+##  ◆⋆˚࿔ AI/ML & Industry Projects
+
+- **[Microsoft Industry Project – LSTM Groundwater Time-Series Forecasting](https://github.com/Break-Through-Tech/Microsoft-4A-groundwater-timeseries-prediction-using-AI)**
+  - Break Through Tech AI Studio industry challenge with Microsoft.
+  - Developing an LSTM-based model to forecast groundwater levels 7 days ahead using 1–5 GB of environmental time-series data.
+  - Applying temporal feature engineering and RMSE-based model evaluation.
+ 
 
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
