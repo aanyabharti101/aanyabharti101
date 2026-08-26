@@ -17,8 +17,8 @@ Currently working on a Microsoft industry challenge through Break Through Tech A
 ##  ◆⋆˚࿔ AI/ML & Industry Projects
 
 - **[Microsoft Industry Project – LSTM Groundwater Time-Series Forecasting](https://github.com/Break-Through-Tech/Microsoft-4A-groundwater-timeseries-prediction-using-AI)**
-  - Break Through Tech AI Studio industry challenge with Microsoft.
-  - Developing an LSTM-based model to forecast groundwater levels 7 days ahead using 1–5 GB of environmental time-series data.
+  - Forecasting groundwater levels 7 days ahead using an LSTM-based time-series model.
+  - Working with 1–5 GB of real-world environmental data through Break Through Tech AI Studio’s Microsoft industry challenge.
   - Applying temporal feature engineering and RMSE-based model evaluation.
  
 
