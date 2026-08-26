@@ -6,8 +6,7 @@ I’m an aspiring AI/ML engineer interested in applying machine learning and sof
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
 
-Currently working on a Microsoft industry challenge through Break Through Tech AI Studio, developing an LSTM-based model for groundwater time-series forecasting.
-
+Currently applying machine learning to real-world problems through Break Through Tech AI Studio and other research and open-source work.
 
 
 <p>
