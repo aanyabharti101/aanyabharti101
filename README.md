@@ -80,9 +80,10 @@ Currently applying machine learning to real-world problems through Break Through
 
 ## ◆ Leadership & Community
 
-- **UMass Lowell ACM — Director of Public Relations**
+- **UMass Lowell ACM: Director of Public Relations**
   - Outreach, events, communications, and digital presence.
   - [GitHub Organization](https://github.com/UML-Association-For-Computing-Machinery) · [Website](https://uml-association-for-computing-machinery.github.io/)
+
 
 
 ## 🛠️ Tech Stack
