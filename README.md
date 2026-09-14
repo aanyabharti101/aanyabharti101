@@ -77,6 +77,14 @@ Currently applying machine learning to real-world problems through Break Through
 - [DNAAlignment](https://github.com/aanyabharti101/DNAAlignment)  
   Dynamic programming DNA alignment with edit-distance optimization.
 
+
+## ◆ Leadership & Community
+
+- **UMass Lowell ACM — Director of Public Relations**
+  - Outreach, events, communications, and digital presence.
+  - [GitHub Organization](https://github.com/UML-Association-For-Computing-Machinery) · [Website](https://uml-association-for-computing-machinery.github.io/)
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
