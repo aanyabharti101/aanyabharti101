@@ -20,10 +20,12 @@ Currently applying machine learning to real-world problems through Break Through
   - Working with 1–5 GB of real-world environmental data through Break Through Tech AI Studio’s Microsoft industry challenge.
   - Applying temporal feature engineering and RMSE-based model evaluation.
 
-- **[HopsSighting(EcoScribe): Hackachusetts 2026](https://github.com/TSOT7/HopsSighting)**  
-  - Built a climate-tech platform that evaluates potential development of clean energy sites based on environmental impact and sustainability.  
-  - Developed an interactive Massachusetts map with location-based environmental scoring and detailed site assessment reports.  
+
+- **[EcoScribe (HopsSighting) – Hackachusetts 2026](https://github.com/TSOT7/HopsSighting)**
+  - Developed a climate-tech platform to assess potential clean energy development sites based on environmental impact and ecological sustainability.
+  - Built an interactive Massachusetts map featuring biodiversity risk assessment, location-based environmental scoring, and detailed site reports.
   - **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
+  
  
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
