@@ -21,7 +21,7 @@ Currently applying machine learning to real-world problems through Break Through
   - Applying temporal feature engineering and RMSE-based model evaluation.
 
 
-- **[EcoScribe (HopsSighting) – Hackachusetts 2026](https://github.com/TSOT7/HopsSighting)**
+- **[EcoScribe (HopsSighting): Hackachusetts 2026](https://github.com/TSOT7/HopsSighting)**
   - Developed a climate-tech platform to assess potential clean energy development sites based on environmental impact and ecological sustainability.
   - Built an interactive Massachusetts map featuring biodiversity risk assessment, location-based environmental scoring, and detailed site reports.
   - **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
