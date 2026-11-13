@@ -132,7 +132,7 @@ the search to 77 candidate lineage-specific genes using homology-based filtering
 ## 🤝 Connect With Me
 
 <p>
-  <a href="mailto:aanyabharti101@gmail.com">
+  <a href="mailto:aanyabharti1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aanya" />
   </a>
   <a href="https://www.linkedin.com/in/aanyabharti2/">
