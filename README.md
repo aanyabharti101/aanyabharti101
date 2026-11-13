@@ -17,8 +17,8 @@ Currently applying machine learning to real-world problems through Break Through
 ##  ◆⋆˚࿔ AI/ML & Industry Projects
 
 - **[Microsoft Industry Project: LSTM Groundwater Time-Series Forecasting](https://github.com/Break-Through-Tech/Microsoft-4A-groundwater-timeseries-prediction-using-AI)**
-- Developed LSTM and XGBoost models to forecast groundwater levels 7 days ahead using 30 days of historical observations.
-- Improved XGBoost test RMSE from 2.4070 m to 0.7938 m by predicting groundwater-level changes instead of absolute elevations.
+  - Developed LSTM and XGBoost models to forecast groundwater levels 7 days ahead using 30 days of historical observations.
+  - Improved XGBoost test RMSE from 2.4070 m to 0.7938 m by predicting groundwater-level changes instead of absolute elevations.
 - Conducted temporal data analysis, including 30-day and 90-day rolling statistics, trend visualizations, and RMSE/MAE-based model evaluation.
 
 
