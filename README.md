@@ -2,7 +2,8 @@
 
 CS & Mathematics double major @ UMass Lowell
 
-I’m an aspiring AI/ML engineer interested in applying machine learning and software to real-world problems in biology and health. I love building things that turn an idea into something real.
+I'm an aspiring AI/ML engineer with interests in software engineering and data analysis, especially applications in biology, health, and environmental sustainability.
+I enjoy turning complex problems into useful tools, whether that's developing forecasting models, analyzing biological data, or building software.
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
 
@@ -16,16 +17,16 @@ Currently applying machine learning to real-world problems through Break Through
 ##  ◆⋆˚࿔ AI/ML & Industry Projects
 
 - **[Microsoft Industry Project: LSTM Groundwater Time-Series Forecasting](https://github.com/Break-Through-Tech/Microsoft-4A-groundwater-timeseries-prediction-using-AI)**
-  - Forecasting groundwater levels 7 days ahead using an LSTM-based time-series model.
-  - Working with 1–5 GB of real-world environmental data through Break Through Tech AI Studio’s Microsoft industry challenge.
-  - Applying temporal feature engineering and RMSE-based model evaluation.
+- Developed LSTM and XGBoost models to forecast groundwater levels 7 days ahead using 30 days of historical observations.
+- Improved XGBoost test RMSE from 2.4070 m to 0.7938 m by predicting groundwater-level changes instead of absolute elevations.
+- Conducted temporal data analysis, including 30-day and 90-day rolling statistics, trend visualizations, and RMSE/MAE-based model evaluation.
 
 
 - **[EcoScribe (HopsSighting): Hackachusetts 2026](https://github.com/TSOT7/HopsSighting)**
-  - Developed a climate-tech platform to assess potential clean energy development sites based on environmental impact and ecological sustainability.
-  - Built an interactive Massachusetts map featuring biodiversity risk assessment, location-based environmental scoring, and detailed site reports.
-  - **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
-  
+- Contributed to a 4-person climate-tech hackathon project evaluating environmental suitability for clean energy development.
+- Implemented an interactive Massachusetts map using Leaflet, including clickable city markers, geographic labels, and contextual help tooltips.
+- Collaborated on a platform featuring six-factor environmental screening, 0–100 site scores, and downloadable reports.
+- **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
  
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
@@ -61,7 +62,8 @@ Currently applying machine learning to real-world problems through Break Through
 ## ◆⋆˚࿔ Web Development & APIs
 
 - [productivibe-app](https://github.com/aanyabharti101/productivibe-app)  
-  Productivity-focused web application for task organization.
+  Gamified productivity app featuring 7 achievement levels, task and habit tracking,
+   Pomodoro timers, and browser-based data persistence.
 
 - **HawkAdvisor** *(Private Repository)*  
   UI/UX improvements including authentication redesign, dark mode support, and reusable component styling.
@@ -71,14 +73,16 @@ Currently applying machine learning to real-world problems through Break Through
 ## ◆ ⊹ ࣪ ˖ Security
 
 - [Secure-Drop-File-Transfer](https://github.com/aanyabharti101/Secure-Drop-File-Transfer)  
-  Secure client-server file transfer application with encrypted communication and authentication.
+  Python client-server file transfer application featuring TCP socket communication, user authentication,
+  contact management, and local network discovery.
 
 ---
 
 ## ◆ ⊹ ࣪ ˖ Research & Computational Biology
 
 - [stickleback-gene-analysis](https://github.com/aanyabharti101/stickleback-gene-analysis)  
-  Comparative genomics pipeline using OrthoFinder, DIAMOND BLASTP, and HPC workflows.
+Developed an HPC comparative-genomics workflow analyzing 899 orthogroups and 1,959 genes, narrowing
+the search to 77 candidate lineage-specific genes using homology-based filtering.
 
 - [DNAAlignment](https://github.com/aanyabharti101/DNAAlignment)  
   Dynamic programming DNA alignment with edit-distance optimization.
