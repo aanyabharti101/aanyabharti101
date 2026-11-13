@@ -19,14 +19,14 @@ Currently applying machine learning to real-world problems through Break Through
 - **[Microsoft Industry Project: LSTM Groundwater Time-Series Forecasting](https://github.com/Break-Through-Tech/Microsoft-4A-groundwater-timeseries-prediction-using-AI)**
   - Developed LSTM and XGBoost models to forecast groundwater levels 7 days ahead using 30 days of historical observations.
   - Improved XGBoost test RMSE from 2.4070 m to 0.7938 m by predicting groundwater-level changes instead of absolute elevations.
-- Conducted temporal data analysis, including 30-day and 90-day rolling statistics, trend visualizations, and RMSE/MAE-based model evaluation.
+  - Conducted temporal data analysis, including 30-day and 90-day rolling statistics, trend visualizations, and RMSE/MAE-based model evaluation.
 
 
 - **[EcoScribe (HopsSighting): Hackachusetts 2026](https://github.com/TSOT7/HopsSighting)**
-- Contributed to a 4-person climate-tech hackathon project evaluating environmental suitability for clean energy development.
-- Implemented an interactive Massachusetts map using Leaflet, including clickable city markers, geographic labels, and contextual help tooltips.
-- Collaborated on a platform featuring six-factor environmental screening, 0–100 site scores, and downloadable reports.
-- **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
+  - Contributed to a 4-person climate-tech hackathon project evaluating environmental suitability for clean energy development.
+  - Implemented an interactive Massachusetts map using Leaflet, including clickable city markers, geographic labels, and contextual help tooltips.
+  - Collaborated on a platform featuring six-factor environmental screening, 0–100 site scores, and downloadable reports.
+  - **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
  
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
