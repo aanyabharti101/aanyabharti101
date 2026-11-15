@@ -28,6 +28,12 @@ Currently applying machine learning to real-world problems through Break Through
   - Collaborated on a platform featuring six-factor environmental screening, 0–100 site scores, and downloadable reports.
   - **Tech Stack:** Python, FastAPI, JavaScript, HTML/CSS, Leaflet, REST APIs.
  
+- **[Monster Trainer: Interactive Machine Learning Lesson](https://github.com/aanyabharti101/monster-trainer-ml)**
+  - Built an interactive monster-sorting demo teaching nearest-neighbor classification through predictions, model errors, and new training examples.
+  - Designed a lesson for ages 13–15 explaining labeled data, feature selection, and testing on unseen inputs.
+  - **Tech Stack:** JavaScript, HTML/CSS, Python.
+ 
+ 
 ## ◆⋆˚˖ꕤ Open Source Contributions
 
 - **[Swift Build:  Pull Request #1477](https://github.com/swiftlang/swift-build/pull/1477)**  
