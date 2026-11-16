@@ -6,6 +6,7 @@ I'm an aspiring AI/ML engineer with interests in software engineering and data a
 I enjoy turning complex problems into useful tools, whether that's developing forecasting models, analyzing biological data, or building software.
 
 Welcome to my little corner of GitHub :) This is where I share projects I’ve built, research I’ve worked on, and open-source contributions I’m making along the way.
+🌷 [a little more about me & what i’m building →](https://aanyabharti101.github.io/aanya-portfolio/)
 
 Currently applying machine learning to real-world problems through Break Through Tech AI Studio and other research and open-source work.
 
