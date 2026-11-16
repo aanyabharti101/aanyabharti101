@@ -1,6 +1,6 @@
 # Hi, I'm Aanya Bharti 👋
 
-CS & Mathematics double major @ UMass Lowell
+CS & Mathematics double major @ UMass Lowell 🌱
 
 I'm an aspiring AI/ML engineer with interests in software engineering and data analysis, especially applications in biology, health, and environmental sustainability.
 I enjoy turning complex problems into useful tools, whether that's developing forecasting models, analyzing biological data, or building software.
